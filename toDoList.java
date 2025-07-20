@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 public class toDoList {
     String name;
-    Boolean isCompleted;  // Remove "static" - each task needs its own status
+    Boolean isCompleted;  
     static ArrayList<toDoList> taskList = new ArrayList<>();
 
     public static void addToList(toDoList task) {
