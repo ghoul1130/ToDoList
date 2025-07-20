@@ -72,3 +72,21 @@ public class toDoList {
         DisplayAll();
     }
 }
+
+//OUTPUT
+//Wake up added to the list
+//Execution time: 957900 ns
+//Read a book added to the list
+//Execution time: 13800 ns
+//Play football added to the list
+//Execution time: 9200 ns
+//Wake up marked as completed
+//Execution time: 39900 ns
+//Read a book marked as completed
+//Execution time: 11700 ns
+//Wake up removed from list
+//Execution time: 35700 ns
+//All Tasks:
+//Read a book :: Done
+//Play football :: Not Done
+//Execution time: 5634300 ns
